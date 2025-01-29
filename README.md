@@ -117,7 +117,7 @@ Here is a list of the user accounts:
 ### Enjoy our fake stack overflow app : )
 
 
-## Team Member 1 Contribution (Mahir Alam)
+## Contributions
 - Login, Register, Welcome Pages.
 - Logout functionality
 - Updating data models in backend, writing new get/post endpoints.
@@ -126,9 +126,6 @@ Here is a list of the user accounts:
 - Creating upvote downvote functionality in questions/answers/comments
 - Created Reputation system for users.
 - Password Hashing
-
-
-## Team Member 2 Contribution (Vinit Vala)
 - Pagination and next/prev buttons for questions/answers/comments.
 - Updating data models in backend, writing new get/post endpoints.
 - Creating Comments Schema
@@ -137,5 +134,3 @@ Here is a list of the user accounts:
 - Instructions for setting up and running app in README
 - Created UMI Models.
 - Corrected ESLint Errors.
-
-Dhanyavaad
